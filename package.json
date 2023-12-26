@@ -1,0 +1,9 @@
+{
+  "name": "admin-icons",
+  "scripts": {
+    "build": "node scripts/index.cjs"
+  },
+  "devDependencies": {
+    "fs-extra": "^11.2.0"
+  }
+}
